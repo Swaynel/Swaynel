@@ -15,6 +15,7 @@ ___
 ## 🌱 *Initial Projects*
 ___
 **GitHub Milestone**: *Just learned how to create a repository and set up a personal access token—my first step in version control!*
+
 *Generated a Personal Access Token (PAT) to securely push code from Linux and VS Code.*
 
 
