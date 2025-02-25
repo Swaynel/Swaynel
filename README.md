@@ -1,16 +1,23 @@
-## Hi there 👋
+# Greetings! I’m Swaynel
+___
+I’m a beginner embarking on my coding journey with no prior experience but a strong drive to learn and grow. I’m diving into web development and excited to build meaningful projects as I progress.
 
-<!--
-**Swaynel/Swaynel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 My Development Focus
+___
+**Technologies**: *Tailwind CSS, CSS3, JavaScript, React, Next.js, HTML5*
 
-Here are some ideas to get you started:
+**Tools**: *Git, GitHub, VS Code, Linux, Command Line, Codespaces*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Efforts**: *Exploring the basics of React and styling with Tailwind CSS*
+
+**Objective**:*Develop a functional, user-friendly application or website to showcase my skills*
+
+## 🌱 *Initial Projects*
+___
+**GitHub Milestone**: *Just learned how to create a repository and set up a personal access token—my first step in version control!*
+
+Project Name (#): [e.g., "A simple webpage built with HTML5 and CSS3 from a tutorial."]
+
+## **📧 Contact Me**
+
+Email: [Isaiahnyariki300@gmail.com] (mailto:Isaiah nyariki)
