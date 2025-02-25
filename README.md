@@ -21,4 +21,4 @@ ___
 
 ## **📧 Contact Me**
 
-Email: **[ Isaiahnyariki300@gmail.com ]**
+Email: **( Isaiahnyariki300@gmail.com )**
