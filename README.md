@@ -18,4 +18,4 @@ ___
 
 ## **📧 Contact Me**
 
-Email: [Isaiahnyariki300@gmail.com] (mailto:Isaiah nyariki)
+Email: **[Isaiahnyariki300@gmail.com]** (mail to:**Isaiah nyariki**)
