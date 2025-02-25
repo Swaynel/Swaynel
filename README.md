@@ -10,7 +10,7 @@ ___
 
 **Current Efforts**: Exploring the basics of React and styling with Tailwind CSS
 
-**Objective**:*Develop a functional, user-friendly application or website to showcase my skills*
+**Objective**: Develop a functional, user-friendly application or website to showcase my skills
 
 ## 🌱 *Initial Projects*
 ___
