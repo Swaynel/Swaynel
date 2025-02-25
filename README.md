@@ -8,7 +8,7 @@ ___
 
 **Tools**: *Git, GitHub, VS Code, Linux, Command Line, Codespaces*
 
-**Current Efforts**: *Exploring the basics of React and styling with Tailwind CSS*
+**Current Efforts**: Exploring the basics of React and styling with Tailwind CSS
 
 **Objective**:*Develop a functional, user-friendly application or website to showcase my skills*
 
@@ -21,4 +21,4 @@ ___
 
 ## **📧 Contact Me**
 
-Email: **[Isaiahnyariki300@gmail.com]** (mail to:**Isaiah nyariki**)
+Email: **[Isaiahnyariki300@gmail.com]**
