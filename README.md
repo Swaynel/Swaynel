@@ -1,4 +1,4 @@
-# Greetings! I’m Swaynel
+# 👋Greetings! I’m Swaynel
 ___
 I’m a beginner embarking on my coding journey with no prior experience but a strong drive to learn and grow. I’m diving into web development and excited to build meaningful projects as I progress.
 
@@ -15,8 +15,6 @@ ___
 ## 🌱 *Initial Projects*
 ___
 **GitHub Milestone**: *Just learned how to create a repository and set up a personal access token—my first step in version control!*
-
-Project Name (#): [e.g., "A simple webpage built with HTML5 and CSS3 from a tutorial."]
 
 ## **📧 Contact Me**
 
