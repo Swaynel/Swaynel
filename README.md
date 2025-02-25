@@ -12,7 +12,7 @@ ___
 
 **Objective**: Develop a functional, user-friendly application or website to showcase my skills
 
-## 🌱 *Initial Projects*
+## 🌱 Initial Projects
 ___
 **GitHub Milestone**: *Just learnt how to create a profile ReadMe repository*
 
@@ -21,4 +21,4 @@ ___
 
 ## **📧 Contact Me**
 
-Email: **( Isaiahnyariki300@gmail.com )**
+Email: **( *Isaiahnyariki300@gmail.com* )**
