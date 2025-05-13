@@ -3,7 +3,7 @@
 **Full-Stack JavaScript Developer | Performance Optimizer | Continuous Learner**
 
 [![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000?style=for-the-badge)](https://swaynel-s-profile.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/📩_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/📩_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/isaiah-nyariki-593392365?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail)](mailto:isaiahnyariki300@gmail.com)
 
 ---
