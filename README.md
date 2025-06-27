@@ -44,8 +44,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=swaynel&theme=radical)](https://git.io/streak-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaynel&layout=compact&theme=radical)](https://github.com/swaynel)  
 <br>
-<!-- GitHub Contributions Green Calendar -->
-<img src="https://github-contribution-grid.vercel.app/api?username=swaynel&theme=radical&area=true&hide_title=true" alt="swaynel's contribution graph" />
+<!-- Static GitHub Contribution Graph -->
+<img src="https://activity-graph.herokuapp.com/graph?username=swaynel&theme=react-dark" alt="GitHub contribution graph" />
 
 </div>
 
