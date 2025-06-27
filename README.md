@@ -44,8 +44,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=swaynel&theme=radical)](https://git.io/streak-stats)  
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaynel&layout=compact&theme=radical)](https://github.com/swaynel)  
 <br>
-<!-- Static GitHub Contribution Graph -->
-<img src="https://activity-graph.herokuapp.com/graph?username=swaynel&theme=react-dark" alt="GitHub contribution graph" />
+
+### 🟩 GitHub Contributions  
+<img src="https://ghchart.rshah.org/38B2AC/swaynel" alt="swaynel's GitHub contribution chart" />
 
 </div>
 
