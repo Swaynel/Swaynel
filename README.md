@@ -37,20 +37,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=swaynel&theme=radical)](https://git.io/streak-stats)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swaynel&layout=compact&theme=radical)](https://github.com/swaynel)  
-<br>
-
-### 🟩 GitHub Contributions  
-<img src="https://ghchart.rshah.org/38B2AC/swaynel" alt="swaynel's GitHub contribution chart" />
-
-</div>
-
----
 
 ### 📚 Learning Journey
 
