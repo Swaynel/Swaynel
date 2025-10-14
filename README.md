@@ -41,7 +41,6 @@
 ### 📚 Learning Journey
 
 - **Currently Mastering:** TypeScript, Docker, Advanced React Patterns
-- **Recent Achievement:** IYF Programming Certification (2025)
 - **Development Philosophy:** "Build, Measure, Learn, Repeat"
 
 ---
