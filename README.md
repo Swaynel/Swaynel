@@ -54,4 +54,4 @@ I'm always open to:
 
 📞 **Phone:** +254 711 929 567  
 📧 **Email:** [isaiahnyariki300@gmail.com](mailto:isaiahnyariki300@gmail.com)  
-🌐 **Portfolio:** [swaynel-s-profile.vercel.app](https://swaynel-s-profile.vercel.app)
+🌐 **Portfolio:** [nyariki-isaiah.vercel.app](https://swaynel-s-profile.vercel.app)
