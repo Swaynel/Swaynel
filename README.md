@@ -69,7 +69,7 @@ Encryption (AES, RSA, Hybrid) • Proxychains • Tor • System-level networkin
 - 📞 Phone: +254 711 929 567
 - 🌐 Portfolio: [nyariki-isaiah.vercel.app](https://nyariki-isaiah.vercel.app)
 - 💼 LinkedIn: [Isaiah Nyariki](https://www.linkedin.com/in/isaiah-nyariki-593392365)
-- 🐙 GitHub: [github.com/your-username](https://github.com/your-username)
+- 🐙 GitHub: [github.com/your-username](https://github.com/swaynel)
 
 ---
 
