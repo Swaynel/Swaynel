@@ -1,0 +1,63 @@
+<svg width="680" height="220" viewBox="0 0 680 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; }
+      .label {
+        font-family: 'Courier New', monospace;
+        font-size: 12px;
+        fill: #7d8590;
+      }
+      .pct {
+        font-family: 'Courier New', monospace;
+        font-size: 11px;
+        fill: #7d8590;
+      }
+      .bar-track { fill: #21262d; rx: 3; }
+    </style>
+  </defs>
+
+  <rect width="680" height="220" rx="8" class="bg"/>
+
+  <!-- Section title -->
+  <text x="20" y="28" font-family="'Courier New', monospace" font-size="11" fill="#1D9E75" letter-spacing="2">PROFICIENCY</text>
+
+  <!-- Python -->
+  <text x="20" y="58" class="label">Python</text>
+  <text x="650" y="58" class="pct" text-anchor="end">92%</text>
+  <rect x="20" y="63" width="640" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="63" height="6" rx="3" fill="#1D9E75">
+    <animate attributeName="width" from="0" to="589" dur="1.2s" begin="0.2s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+  </rect>
+
+  <!-- C++ -->
+  <text x="20" y="98" class="label">C++</text>
+  <text x="650" y="98" class="pct" text-anchor="end">78%</text>
+  <rect x="20" y="103" width="640" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="103" height="6" rx="3" fill="#7F77DD">
+    <animate attributeName="width" from="0" to="499" dur="1.2s" begin="0.4s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+  </rect>
+
+  <!-- TypeScript -->
+  <text x="20" y="138" class="label">TypeScript</text>
+  <text x="650" y="138" class="pct" text-anchor="end">82%</text>
+  <rect x="20" y="143" width="640" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="143" height="6" rx="3" fill="#378ADD">
+    <animate attributeName="width" from="0" to="525" dur="1.2s" begin="0.6s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+  </rect>
+
+  <!-- Bash -->
+  <text x="20" y="178" class="label">Bash</text>
+  <text x="650" y="178" class="pct" text-anchor="end">70%</text>
+  <rect x="20" y="183" width="640" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="183" height="6" rx="3" fill="#EF9F27">
+    <animate attributeName="width" from="0" to="448" dur="1.2s" begin="0.8s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+  </rect>
+
+  <!-- NumPy/Pandas -->
+  <text x="20" y="210" class="label">NumPy / Pandas</text>
+  <text x="650" y="210" class="pct" text-anchor="end">85%</text>
+  <rect x="20" y="205" width="640" height="6" rx="3" fill="#21262d"/>
+  <rect x="20" y="205" height="6" rx="3" fill="#D85A30">
+    <animate attributeName="width" from="0" to="544" dur="1.2s" begin="1.0s" calcMode="spline" keySplines="0.22 1 0.36 1" fill="freeze"/>
+  </rect>
+</svg>

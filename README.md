@@ -1,10 +1,4 @@
-# 👋 Hey, I'm Isaiah Nyariki (Git_Saint)
-> "Hope is the most dangerous asset of a broke man — and also the most powerful."
-
----
-
-## 🪪 Identity
-- **Full Name:** Isaiah Nyariki
+<img src="./header.svg" width="100%" alt="Isaiah Nyariki — Git_Saint"/>
 
 ---
 
@@ -29,6 +23,8 @@
 
 ## 🛠️ Tech Stack
 
+<img src="./skills.svg" width="100%" alt="Skill proficiency bars"/>
+
 ### Languages
 Python • C++ • TypeScript • Bash
 
@@ -44,6 +40,9 @@ Encryption (AES, RSA, Hybrid) • Proxychains • Tor • System-level networkin
 ---
 
 ## 🧪 Current Focus
+
+<img src="./terminal.svg" width="100%" alt="Terminal animation"/>
+
 - 📉 Financial systems & **quantitative modeling**
 - ⚡ Low-latency and high-performance systems
 - 🔐 Secure communication pipelines
